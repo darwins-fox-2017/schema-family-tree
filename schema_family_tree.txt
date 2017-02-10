@@ -1,0 +1,4 @@
+Berdasrkan skema yang kami buat, sudah mengakomodir permasalahan pada rilis satu,
+karena setiap orang bisa memiliki beberapa role dan role dapat dimiliki lebih dari seorang.
+
+Misal, seorang bernama Dego adalah seorang ayah dari Dini, namu Dego juga seorang anak dari Kakek Diga.
